@@ -5,7 +5,13 @@
     <bookmark url="file://$PROJECT_DIR$/2_sequence_dtype/4_reversing_words.py" line="40" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5556997f-95e6-4788-9d24-655fd7db7187" name="Default Changelist" comment="" />
+    <list default="true" id="5556997f-95e6-4788-9d24-655fd7db7187" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/3_collection/10_is_anagram_using_ord.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_collection/10_is_anagram_using_ord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_collection/11_find_dice_probabilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_collection/11_find_dice_probabilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_collection/12_delete_duplicate_char_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_collection/12_delete_duplicate_char_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_collection/1_set_operations_with_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_collection/1_set_operations_with_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_collection/8_find_top_N_recurring_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_collection/8_find_top_N_recurring_words.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,46 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_collection/4_1_dicts_if_condition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_collection/5_defaultdict_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_collection/6_orderedDict_example.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="34" selection-start-column="34" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_collection/7_counterDict_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_collection/8_find_top_N_recurring_words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -98,11 +68,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_structure_and_module/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="176">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_structure_and_module/1_sys_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_data_structure/9_find_fibonacci_seq_by_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_structure_and_module/2_fib_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_structure_and_module/3_grep_word_from_files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -122,12 +128,12 @@
       <find>.join</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example_google.py" />
-        <option value="$PROJECT_DIR$/oop/8_observer_pattern_with_event.py" />
-        <option value="$PROJECT_DIR$/1_data_structure/1_testing_floats.py" />
         <option value="$PROJECT_DIR$/etc/recurvie_function/python.py" />
         <option value="$PROJECT_DIR$/etc/recurvie_function/python/sum-list.py" />
         <option value="$PROJECT_DIR$/etc/recurvie_function/python/sum-list-of-list.py" />
@@ -176,15 +182,18 @@
         <option value="$PROJECT_DIR$/3_collection/11_find_dice_probabilities.py" />
         <option value="$PROJECT_DIR$/3_collection/12_delete_duplicate_char_str.py" />
         <option value="$PROJECT_DIR$/4_structure_and_module/hello.py" />
+        <option value="$PROJECT_DIR$/4_structure_and_module/1_sys_example.py" />
+        <option value="$PROJECT_DIR$/4_structure_and_module/2_fib_generator.py" />
+        <option value="$PROJECT_DIR$/4_structure_and_module/3_grep_word_from_files.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1783" />
-    <option name="y" value="-435" />
-    <option name="width" value="1778" />
-    <option name="height" value="1138" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="838" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -200,6 +209,11 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="1_data_structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="4_structure_and_module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -210,6 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/1_data_structure" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -235,35 +250,68 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in 12_delete_duplicate_char_str.py">
-    <configuration name="pytest for 9_is_anagram.test_is_anagram" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3_grep_word_from_files">
+    <configuration name="2_fib_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_structure_and_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;9_is_anagram.test_is_anagram&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_structure_and_module/2_fib_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in 10_is_anagram_using_ord.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="3_grep_word_from_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_structure_and_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/3_collection/10_is_anagram_using_ord.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_structure_and_module/3_grep_word_from_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_find_fibonacci_seq_by_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_data_structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_data_structure/9_find_fibonacci_seq_by_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in 11_find_dice_probabilities.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -296,28 +344,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in 9_is_anagram.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_collection" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/3_collection/9_is_anagram.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_grep_word_from_files" />
+        <item itemvalue="Python.2_fib_generator" />
+        <item itemvalue="Python.9_find_fibonacci_seq_by_generator" />
         <item itemvalue="Python tests.pytest in 12_delete_duplicate_char_str.py" />
         <item itemvalue="Python tests.pytest in 11_find_dice_probabilities.py" />
-        <item itemvalue="Python tests.pytest in 10_is_anagram_using_ord.py" />
-        <item itemvalue="Python tests.pytest in 9_is_anagram.py" />
-        <item itemvalue="Python tests.pytest for 9_is_anagram.test_is_anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -367,10 +400,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1783" y="-435" width="1778" height="1138" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.18042117" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.22339676" />
       <window_info id="Structure" order="1" sideWeight="0.5021834" side_tool="true" weight="0.25461847" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -380,37 +413,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5066922" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298279" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5066922" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.23422562" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.46782842" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oop/8_observer_pattern_with_event.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_data_structure/1_testing_floats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_google.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1456">
-          <caret line="91" column="62" selection-start-line="91" selection-start-column="62" selection-end-line="91" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/etc/recursive_function.js" />
     <entry file="file://$PROJECT_DIR$/etc/recurvie_function/python.py" />
     <entry file="file://$PROJECT_DIR$/etc/recurvie_function/python/sum-list.py">
@@ -514,13 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_data_structure/9_find_fibonacci_seq_by_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -747,8 +752,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_structure_and_module/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_structure_and_module/1_sys_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_data_structure/9_find_fibonacci_seq_by_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_structure_and_module/2_fib_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_structure_and_module/3_grep_word_from_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

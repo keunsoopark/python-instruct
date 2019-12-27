@@ -21,7 +21,7 @@ def test_sets_operations_with_lists():
     assert(remove_dup(l3) == l3)
     assert(intersection(l3, l2) == l3)
     assert(sorted(union(l3, l2)) == sorted(l2))
-    print("test done")
+    print("fib_generator done")
 
 
 if __name__ == "__main__":

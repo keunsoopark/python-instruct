@@ -30,7 +30,7 @@ def test_delete_unique_word():
     str1 = "google"
     assert(delete_unique_word_kp(str1) == "le")
     assert(delete_unique_word(str1) == "le")
-    print("test passed")
+    print("fib_generator passed")
 
 
 if __name__ == "__main__":

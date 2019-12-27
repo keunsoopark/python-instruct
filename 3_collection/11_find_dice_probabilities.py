@@ -24,7 +24,7 @@ def test_find_dice_probabilities():
     results = find_dice_probabilities(S, n_faces)
     print(results)
     assert (results[0] == len(results[1]))
-    print("test passed")
+    print("fib_generator passed")
 
 
 if __name__ == "__main__":

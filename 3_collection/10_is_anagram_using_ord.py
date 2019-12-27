@@ -20,7 +20,7 @@ def test_find_anagram_hash_function():
     word3 = "bffya"
     assert(find_anagram_hash_function(word1, word2) is True)
     assert(find_anagram_hash_function(word1, word3) is False)
-    print("test passed")
+    print("fib_generator passed")
 
 
 if __name__ == "__main__":

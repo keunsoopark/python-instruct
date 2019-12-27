@@ -14,7 +14,7 @@ def test_find_top_N_recurring_words():
     N = 3
     assert(find_top_N_recurring_words(seq, N) ==
            [("buffy", 3), ("angier", 2), ("monster", 2)])
-    print("test passed!")
+    print("fib_generator passed!")
 
 
 if __name__ == "__main__":
