@@ -1,0 +1,4 @@
+INFO:root:[2020-01-01 22:03] executed: args - ('keunsoo', 25), kwargs - {}
+INFO:root:[2020-01-01 22:05] executed: args - ('keunsoo', 25), kwargs - {}
+INFO:root:[2020-01-01 22:13] executed: args - ('keunsoo', 25), kwargs - {}
+INFO:root:[2020-01-08 17:07] executed: args - ('keunsoo', 25), kwargs - {}
