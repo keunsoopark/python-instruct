@@ -1,5 +1,6 @@
 # How to implement getter/setter in Python with using decorators
 
+
 class C:
     def __init__(self, name):
         self._name = name
