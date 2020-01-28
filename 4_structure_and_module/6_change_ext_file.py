@@ -5,7 +5,7 @@ import shutil
 
 def change_file_ext():
     if len(sys.argv) < 2:
-        print("Usage: python {0} [file ...]".format(sys.argv[0]))
+        print("Usage: python-instruct {0} [file ...]".format(sys.argv[0]))
         sys.exit()
 
     # os.path.splitext(sys.argv[1]) == sys.argv[1].split(".")

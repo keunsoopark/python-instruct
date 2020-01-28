@@ -1,4 +1,4 @@
-# measure time consumption between numpy vs. python list
+# measure time consumption between numpy vs. python-instruct list
 import numpy as np
 import time
 

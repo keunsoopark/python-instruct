@@ -12,7 +12,7 @@ def grep_word_from_files():
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python {0} [word] [file ...]".format(sys.argv[0]))
+        print("Usage: python-instruct {0} [word] [file ...]".format(sys.argv[0]))
         sys.exit()
     else:
         grep_word_from_files()
