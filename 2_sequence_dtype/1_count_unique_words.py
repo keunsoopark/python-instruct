@@ -1,5 +1,5 @@
 # print all words in the text file in alphabetical sequence and print the counter of how many times the words are used.
-# just use the code itself as text file as `python 1_counter_unique_words.py 1_counter_unique_words.py`
+# just use the code itself as text file as `python-instruct 1_counter_unique_words.py 1_counter_unique_words.py`
 import string
 import sys
 

@@ -25,7 +25,7 @@ def write_data(lines, filename):
 
 def remove_blank_lines():
     if len(sys.argv) < 2:
-        print("Usage: python {0} [file ...]".format(sys.argv[0]))
+        print("Usage: python-instruct {0} [file ...]".format(sys.argv[0]))
         sys.exit()
 
     for filename in sys.argv[1:]:
