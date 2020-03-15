@@ -1,0 +1,56 @@
+2020-03-15 16:34:55,561 - INFO - Process 96568 completed successfully
+2020-03-15 16:34:55,562 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:34:55,563 - INFO - Process 96568 completed successfully
+2020-03-15 16:34:55,583 - INFO - Process 96569 completed successfully
+2020-03-15 16:34:55,599 - INFO - Process 96565 completed successfully
+2020-03-15 16:34:57,598 - INFO - Process 96569 completed successfully
+2020-03-15 16:34:57,599 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:34:57,600 - INFO - Process 96569 completed successfully
+2020-03-15 16:34:57,615 - INFO - Process 96568 completed successfully
+2020-03-15 16:34:57,632 - INFO - Process 96565 completed successfully
+2020-03-15 16:34:59,640 - INFO - Process 96568 completed successfully
+2020-03-15 16:34:59,641 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:34:59,642 - INFO - Process 96568 completed successfully
+2020-03-15 16:34:59,672 - INFO - Process 96569 completed successfully
+2020-03-15 16:34:59,688 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:01,689 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:01,690 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:35:01,691 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:01,694 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:01,719 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:03,713 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:03,713 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:35:03,714 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:03,747 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:03,753 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:05,777 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:05,778 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:35:05,778 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:05,795 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:05,804 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:07,819 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:07,820 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:35:07,821 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:07,838 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:07,839 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:09,866 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:09,867 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:35:09,868 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:09,887 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:09,896 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:11,941 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:11,943 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:35:11,945 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:11,960 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:11,975 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:13,979 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:13,980 - ERROR - [Errno 2] No such file or directory: '/Users/keunsoopark/Desktop/Study/python/python-instruct/asynchronous_task_queue/data/drackla.txt'
+2020-03-15 16:35:13,981 - INFO - Process 96568 completed successfully
+2020-03-15 16:35:13,982 - INFO - process shutting down
+2020-03-15 16:35:13,982 - INFO - process exiting with exitcode 0
+2020-03-15 16:35:14,002 - INFO - Process 96565 completed successfully
+2020-03-15 16:35:14,002 - INFO - process shutting down
+2020-03-15 16:35:14,003 - INFO - process exiting with exitcode 0
+2020-03-15 16:35:14,005 - INFO - Process 96569 completed successfully
+2020-03-15 16:35:14,006 - INFO - process shutting down
+2020-03-15 16:35:14,007 - INFO - process exiting with exitcode 0
