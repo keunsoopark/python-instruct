@@ -34,7 +34,6 @@ class LinkedListLIFO(object):
     def add(self, value):
         self.length += 1
         self.head = Node(value=value, pointer=self.head)
-        pass
 
     # Find node with index
     def _find_by_index(self, index):
