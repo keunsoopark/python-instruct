@@ -16,7 +16,7 @@ def worker(num):
 
 
 if __name__ == "__main__":
-    num_worker_threads = 5
+    num_worker_threads = 10
     threads = []
     for i in range(num_worker_threads):
         t = threading.Thread(target=worker, args=(i,))

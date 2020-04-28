@@ -35,6 +35,11 @@ class LinkedListLIFO(object):
         self.length += 1
         self.head = Node(value=value, pointer=self.head)
 
+    def add_by_list(self, list):
+        for elem in list:
+            self.length += 1
+            self.head = Node(value=elem, pointer=self.head)
+
     # Find node with index
     def _find_by_index(self, index):
         prev = None
@@ -96,3 +101,7 @@ if __name__ == "__main__":
         ll.delete_node_by_index(index=i)
     ll.printList()
 
+    input_list = [2, 6, 4, 8, 7]
+    ll_list = LinkedListLIFO()
+    ll_list.add_by_list(input_list)
+    ll_list.printList()
