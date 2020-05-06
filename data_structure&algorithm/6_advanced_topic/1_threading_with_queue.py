@@ -1,7 +1,7 @@
-import queue
+import queue_custom
 import threading
 
-q = queue.Queue()
+q = queue_custom.Queue()
 
 
 def worker(num):

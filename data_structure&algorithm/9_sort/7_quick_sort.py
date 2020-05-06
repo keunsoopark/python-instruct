@@ -33,6 +33,7 @@ def _partition_devided(seq):
     return before, pivot, after
 
 
+# https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
 def quick_sort(seq, start, end):
     # Without using cache
     if start < end:
@@ -56,7 +57,7 @@ def _partition(seq, start, end):
             done = True
         else:
             seq[left], seq[right] = seq[right], seq[left]
-    seq[start], seq[right] = seq[right], seq[start]
+    seq[start], seq[right] = seq[right], seq[start]     # "right" should be used cuz "left" and "right" are crossed each other already.
     print(right, seq)
 
     return right

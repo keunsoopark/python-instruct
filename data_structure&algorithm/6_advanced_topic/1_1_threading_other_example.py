@@ -2,7 +2,7 @@
 # An example of data transferring between threads
 
 import threading
-from queue import Queue
+from queue_custom import Queue
 
 
 def creator(data, q):
